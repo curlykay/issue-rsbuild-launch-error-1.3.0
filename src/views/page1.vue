@@ -8,7 +8,7 @@ defineOptions({
   <div class="page1">page1</div>
 </template>
 
-<style scoped>
+<style lang="scss" scoped>
 .page1 {
   display: flex;
   justify-content: center;
